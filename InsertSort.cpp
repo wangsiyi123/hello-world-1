@@ -1,5 +1,5 @@
 // InsertSort.cpp : 定义控制台应用程序的入口点。
-//
+//添加一行注释给柏兰，看行不行
 
 #include "stdafx.h"
 
