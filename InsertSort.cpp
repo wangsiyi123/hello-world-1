@@ -1,7 +1,7 @@
 // InsertSort.cpp : 定义控制台应用程序的入口点。
 //添加一行注释给柏兰，看行不行
 //王潇禾来了
-//王潇禾写报告行不行
+//王潇禾写报告行不行..
 #include "stdafx.h"
 
 void insert_sort(int* p,int n)
